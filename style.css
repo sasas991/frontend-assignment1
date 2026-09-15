@@ -88,3 +88,21 @@ img {
     border: 2px solid red;
     padding: 10px;
 }
+
+.float-left {
+    float: left;
+    width: 40%;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+.float-right {
+    float: right;
+    width: 40%;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+.clear-float {
+    clear: both;
+}
