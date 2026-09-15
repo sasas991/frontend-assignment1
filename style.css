@@ -55,3 +55,33 @@ img {
     padding: 5px;
     margin: 10px;
 }
+
+.static-box {
+    position: static;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.relative-box {
+    position: relative;
+    left: 20px;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.position-container {
+    position: relative;
+    height: 80px;
+    border: 2px dashed gray;
+    margin: 20px 0;
+}
+
+.absolute-box {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    border: 2px solid red;
+    padding: 10px;
+}
