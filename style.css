@@ -22,12 +22,12 @@ p {
     font-family: Arial, sans-serif;
 }
 
-.mood {
+.highlight {
     color: darkgreen;
     font-weight: bold;
 }
 
-#main {
+#main-heading {
     color: darkblue;
     text-align: center;
 }
