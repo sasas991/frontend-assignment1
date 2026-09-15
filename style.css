@@ -1,7 +1,9 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: lightgray;
+    background-color: #f4f6f8;
+    color: #222;
+
 }
 
 h1 {
@@ -28,11 +30,11 @@ p {
 }
 
 #main-heading {
-    color: darkblue;
+    color: rgb(158, 158, 203);
     text-align: center;
 }
 .header {
-    background-color: white;
+    background-color: #1f2937;
     padding: 20px;
     border: 2px solid black;
     margin-bottom: 20px;
@@ -41,11 +43,12 @@ p {
 .main-content {
     padding: 20px;
     border: 2px solid gray;
+    background-color: white;
     margin: 10px;
 }
 
 .footer {
-    background-color: white;
+    background-color: #1f2937;
     padding: 15px;
     border: 2px solid black;
     margin-top: 20px;
