@@ -16,3 +16,18 @@ h2 {
 h3 {
     font-size: 20px;
 }
+
+p {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+
+.mood {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+#main {
+    color: darkblue;
+    text-align: center;
+}
