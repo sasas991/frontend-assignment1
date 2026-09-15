@@ -31,3 +31,16 @@ p {
     color: darkblue;
     text-align: center;
 }
+.header {
+    background-color: white;
+    padding: 20px;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.footer {
+    background-color: white;
+    padding: 15px;
+}
